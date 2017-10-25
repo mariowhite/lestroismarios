@@ -1,0 +1,68 @@
+.col1, .col2, .col3, .cols {
+	float:left;
+}
+.col1 {
+	width:670px;
+	margin-top:-40px;
+}
+.col2 {
+	width:310px;
+}
+
+.col11 {
+	width:580px;
+	margin-top:-40px;
+	float: left;
+}
+.col22 {
+	width:285px;
+	float: right;
+}
+
+.cols {
+	width:223px;
+}
+#page1 header {
+	height:416px;
+}
+#page1 h1 {
+	padding:23px 0 0 0;
+}
+#page1 #icons {
+	padding:38px 5px 0 0;
+}
+#page1 #menu {
+	top:122px;
+}
+#page1 {
+	background:url(../images/bg_top_repeat.jpg) top repeat-x #f3f3f3;
+}
+#page1 .body1 {
+	background:url(../images/bg_top3.jpg) top center no-repeat;
+}
+#page1 .text1 {
+	padding:129px 0 0 0;
+}
+#page1 .col1 {
+	margin-top:-50px;
+}
+#page4 .under {
+	padding-bottom:8px;
+	margin-bottom:30px;
+}
+#page5 .col2 .col_1 {
+	width:74px;
+	float:left;
+}
+#page5 .col2 .col_2 {
+	width:140px;
+	float:left;
+}
+#page5 .col1 .col_1 {
+	width:105px;
+	float:left;
+}
+#page5 .col1 .col_2 {
+	width:405px;
+	float:left;
+}
